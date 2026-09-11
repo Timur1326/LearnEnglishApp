@@ -1,0 +1,146 @@
+{
+  "Pozdravy": {
+    "How’s it going?": {
+      "translation": "Jak to jde?",
+      "example": "Hey John! How’s it going? Haven’t seen you in a while!"
+    },
+    "What’s up?": {
+      "translation": "Co nového?",
+      "example": "Hey, what’s up? You look excited today!"
+    },
+    "Long time no see!": {
+      "translation": "Dlouho jsme se neviděli!",
+      "example": "Wow, long time no see! How have you been?"
+    },
+    "How have you been?": {
+      "translation": "Jak ses měl?",
+      "example": "Hey Sarah, how have you been? It's been months!"
+    }
+  },
+  "Cestování": {
+    "Hit the road": {
+      "translation": "Vyrazit na cestu",
+      "example": "We should wake up early and hit the road before traffic gets bad."
+    },
+    "Pack light": {
+      "translation": "Balit nalehko",
+      "example": "You don’t need three suitcases for a weekend trip. Pack light!"
+    },
+    "Off the beaten path": {
+      "translation": "Mimo turistické trasy",
+      "example": "I love finding places that are off the beaten path – fewer tourists and more adventure!"
+    }
+  },
+  "Práce": {
+    "Burn the midnight oil": {
+      "translation": "Pracovat do noci",
+      "example": "I have a big deadline tomorrow, so I'll be burning the midnight oil tonight."
+    },
+    "A nine-to-five job": {
+      "translation": "Práce od devíti do pěti",
+      "example": "I don’t want a nine-to-five job. I prefer freelancing."
+    },
+    "Pull some strings": {
+      "translation": "Využít kontakty",
+      "example": "He managed to get the promotion quickly. I think he pulled some strings."
+    }
+  },
+  "Studium": {
+    "Hit the books": {
+      "translation": "Pilně studovat",
+      "example": "Exams are coming up, so it's time to hit the books."
+    },
+    "Pull an all-nighter": {
+      "translation": "Učit se celou noc",
+      "example": "I didn't study earlier, so I had to pull an all-nighter before the test."
+    },
+    "Piece of cake": {
+      "translation": "Hračka, něco snadného",
+      "example": "That math test was a piece of cake! I finished it in 10 minutes."
+    }
+  },
+  "Jídlo": {
+    "I’m stuffed": {
+      "translation": "Jsem plný",
+      "example": "No more cake for me, thanks. I’m stuffed!"
+    },
+    "It’s on me": {
+      "translation": "Platím já",
+      "example": "Don’t worry about the bill, it’s on me."
+    },
+    "Cash and carry": {
+      "translation": "Zaplať a odnes",
+      "example": "This store is cash and carry only – no credit cards!"
+    }
+  },
+  "Filmy": {
+    "Blockbuster": {
+      "translation": "Kasovní trhák",
+      "example": "That new superhero movie is a total blockbuster!"
+    },
+    "Spoiler alert!": {
+      "translation": "Pozor, spoiler!",
+      "example": "I won’t tell you the ending, but spoiler alert – it’s crazy!"
+    },
+    "A must-see": {
+      "translation": "To musíš vidět",
+      "example": "This documentary is a must-see for anyone interested in history."
+    }
+  },
+  "Hudba": {
+    "Hit the right note": {
+      "translation": "Trefit správný tón",
+      "example": "Her speech at the wedding really hit the right note with the guests."
+    },
+    "Off-key": {
+      "translation": "Falešně zpívat",
+      "example": "I love singing, but I always go off-key!"
+    },
+    "That’s my jam!": {
+      "translation": "To je můj song!",
+      "example": "Turn up the volume! That’s my jam!"
+    }
+  },
+  "Technologie": {
+    "Cutting-edge": {
+      "translation": "Špičkový",
+      "example": "This cutting-edge technology is changing the world."
+    },
+    "User-friendly": {
+      "translation": "Uživatelsky přívětivý",
+      "example": "The new app is very user-friendly and easy to use."
+    },
+    "Outdated": {
+      "translation": "Zastaralý",
+      "example": "That software is outdated and no longer supported."
+    }
+  },
+  "Zdraví": {
+    "Under the weather": {
+      "translation": "Necítit se dobře",
+      "example": "I’m feeling a bit under the weather today."
+    },
+    "In good shape": {
+      "translation": "V dobré kondici",
+      "example": "He exercises regularly and is in good shape."
+    },
+    "Break a sweat": {
+      "translation": "Zapotit se",
+      "example": "You won’t break a sweat with such light training!"
+    }
+  },
+  "Sport": {
+    "Kick off": {
+      "translation": "Zahájit",
+      "example": "The match will kick off at 6 PM."
+    },
+    "Game changer": {
+      "translation": "Zlomový moment",
+      "example": "That goal was a real game changer for the team."
+    },
+    "On the ball": {
+      "translation": "Být ve střehu",
+      "example": "You need to be on the ball during the entire match."
+    }
+  }
+}

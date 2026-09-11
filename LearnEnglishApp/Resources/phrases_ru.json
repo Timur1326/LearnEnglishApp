@@ -1,0 +1,156 @@
+{
+  "Приветствия": {
+    "How’s it going?": {
+      "translation": "Как дела?",
+      "example": "Hey John! How’s it going? Haven’t seen you in a while!"
+    },
+    "What’s up?": {
+      "translation": "Что нового?",
+      "example": "Hey, what’s up? You look excited today!"
+    },
+    "Long time no see!": {
+      "translation": "Давно не виделись!",
+      "example": "Wow, long time no see! How have you been?"
+    }
+  },
+  "Путешествия": {
+    "Hit the road": {
+      "translation": "Отправиться в путь",
+      "example": "We should wake up early and hit the road before traffic gets bad."
+    },
+    "Pack light": {
+      "translation": "Собирать вещи налегке",
+      "example": "You don’t need three suitcases for a weekend trip. Pack light!"
+    },
+    "Off the beaten path": {
+      "translation": "Вне туристических маршрутов",
+      "example": "I love finding places that are off the beaten path – fewer tourists and more adventure!"
+    }
+  },
+  "Работа": {
+    "Burn the midnight oil": {
+      "translation": "Засиживаться допоздна (работая)",
+      "example": "I have a big deadline tomorrow, so I'll be burning the midnight oil tonight."
+    },
+    "A nine-to-five job": {
+      "translation": "Обычная офисная работа",
+      "example": "I don’t want a nine-to-five job. I prefer freelancing."
+    },
+    "Pull some strings": {
+      "translation": "Использовать связи",
+      "example": "He managed to get the promotion quickly. I think he pulled some strings."
+    }
+  },
+  "Учёба": {
+    "Hit the books": {
+      "translation": "Усиленно учиться",
+      "example": "Exams are coming up, so it's time to hit the books."
+    },
+    "Pull an all-nighter": {
+      "translation": "Учиться всю ночь",
+      "example": "I didn't study earlier, so I had to pull an all-nighter before the test."
+    },
+    "Piece of cake": {
+      "translation": "Проще простого",
+      "example": "That math test was a piece of cake! I finished it in 10 minutes."
+    }
+  },
+  "Еда": {
+    "I’m stuffed": {
+      "translation": "Я наелся",
+      "example": "No more cake for me, thanks. I’m stuffed!"
+    },
+    "It’s on me": {
+      "translation": "Я угощаю",
+      "example": "Don’t worry about the bill, it’s on me."
+    },
+    "Grab a bite": {
+      "translation": "Перекусить",
+      "example": "I’m starving. Let’s grab a bite before the movie."
+    }
+  },
+  "Шопинг": {
+    "Shop till you drop": {
+      "translation": "Шопиться до упаду",
+      "example": "We went to the mall and shopped till we dropped!"
+    },
+    "A steal": {
+      "translation": "Очень выгодная покупка",
+      "example": "This designer bag was only $50 – what a steal!"
+    },
+    "Break the bank": {
+      "translation": "Очень дорого",
+      "example": "I want that jacket, but it would break the bank."
+    }
+  },
+  "Кино": {
+    "Blockbuster": {
+      "translation": "Кассовый хит",
+      "example": "That new superhero movie is a total blockbuster!"
+    },
+    "Spoiler alert!": {
+      "translation": "Осторожно, спойлер!",
+      "example": "I won’t tell you the ending, but spoiler alert – it’s crazy!"
+    },
+    "A must-see": {
+      "translation": "Обязательно к просмотру",
+      "example": "This documentary is a must-see for anyone interested in history."
+    }
+  },
+  "Музыка": {
+    "Hit the right note": {
+      "translation": "Попасть в точку",
+      "example": "Her speech at the wedding really hit the right note with the guests."
+    },
+    "Off-key": {
+      "translation": "Фальшиво",
+      "example": "I love singing, but I always go off-key!"
+    },
+    "That’s my jam!": {
+      "translation": "Это мой трек!",
+      "example": "Turn up the volume! That’s my jam!"
+    }
+  },
+  "Здоровье": {
+      "Under the weather": {
+        "translation": "Плохо себя чувствовать",
+        "example": "I think I’ll stay home today. I’m feeling a bit under the weather."
+      },
+      "Get back on your feet": {
+        "translation": "Оправиться, восстановиться",
+        "example": "After the surgery, it took her a few weeks to get back on her feet."
+      },
+      "An apple a day keeps the doctor away": {
+        "translation": "Яблоко в день — и доктор не нужен",
+        "example": "He always eats fruit with his lunch — says an apple a day keeps the doctor away."
+      }
+    },
+    "Погода": {
+      "It’s pouring": {
+        "translation": "Льёт как из ведра",
+        "example": "Don't forget your umbrella — it’s pouring outside!"
+      },
+      "Break in the weather": {
+        "translation": "Просвет в погоде",
+        "example": "We waited for a break in the weather before going hiking."
+      },
+      "Cold snap": {
+        "translation": "Внезапное похолодание",
+        "example": "The cold snap this week caught everyone by surprise."
+      }
+    },
+    "Технологии": {
+      "Cutting-edge": {
+        "translation": "Передовой, ультрасовременный",
+        "example": "This startup is developing cutting-edge AI tools for healthcare."
+      },
+      "Crash": {
+        "translation": "Сломаться (о технике/программе)",
+        "example": "My computer crashed right before I could save the document!"
+      },
+      "Go viral": {
+        "translation": "Становиться вирусным",
+        "example": "That cat video went viral in just a few hours!"
+      }
+    }
+}
